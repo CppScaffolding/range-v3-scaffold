@@ -1,0 +1,4 @@
+## .gitignore file for range-v3-scaffold
+
+## ignore folder fetched through gclient
+range-v3
